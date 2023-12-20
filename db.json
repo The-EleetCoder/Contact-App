@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": 4,
+      "name": "Jai4",
+      "username": "Bro4",
+      "email": "Hello4@gmail.com",
+      "phone": "1234560789",
+      "website": "lmao4.com"
+    },
+    {
+      "id": 5,
+      "name": "Jai5",
+      "username": "Bro5",
+      "email": "Hello5@gmail.com",
+      "phone": "1234560789",
+      "website": "lmao5.com"
+    },
+    {
+      "id": 6,
+      "name": "Jai6",
+      "username": "Bro6",
+      "email": "Hello6@gmail.com",
+      "phone": "1234560789",
+      "website": "lmao6.com"
+    },
+    {
+      "id": 7,
+      "name": "Jai7",
+      "username": "Bro7",
+      "email": "Hello7@gmail.com",
+      "phone": "1234560789",
+      "website": "lmao7.com"
+    },
+    {
+      "id": 8,
+      "name": "Jai8",
+      "username": "Bro8",
+      "email": "Hello8@gmail.com",
+      "phone": "1234560789",
+      "website": "lmao8.com"
+    },
+    {
+      "id": 9,
+      "name": "Jai9",
+      "username": "Bro9",
+      "email": "Hello9@gmail.com",
+      "phone": "1234560789",
+      "website": "lmao9.com"
+    },
+    {
+      "id": 10,
+      "name": "Jai10",
+      "username": "Bro10",
+      "email": "Hello10@gmail.com",
+      "phone": "1234560789",
+      "website": "lmao10.com"
+    },
+    {
+      "name": "Jai Jain",
+      "email": "jaijain.work@gmail.com",
+      "phone": "08882950297",
+      "id": 11
+    },
+    {
+      "name": "arnav",
+      "email": "a2g2@gmail.com",
+      "phone": "7878788778",
+      "id": 12
+    },
+    {
+      "name": "abc",
+      "email": "123@gmail.com",
+      "phone": "88888888",
+      "id": 13
+    }
+  ]
+}
